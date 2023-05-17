@@ -1,0 +1,15 @@
+F:\C#Lesson3\Example012_Methods\bin\Debug\net6.0\Example012_Methods.exe
+F:\C#Lesson3\Example012_Methods\bin\Debug\net6.0\Example012_Methods.deps.json
+F:\C#Lesson3\Example012_Methods\bin\Debug\net6.0\Example012_Methods.runtimeconfig.json
+F:\C#Lesson3\Example012_Methods\bin\Debug\net6.0\Example012_Methods.dll
+F:\C#Lesson3\Example012_Methods\bin\Debug\net6.0\ref\Example012_Methods.dll
+F:\C#Lesson3\Example012_Methods\bin\Debug\net6.0\Example012_Methods.pdb
+F:\C#Lesson3\Example012_Methods\obj\Debug\net6.0\Example012_Methods.csproj.AssemblyReference.cache
+F:\C#Lesson3\Example012_Methods\obj\Debug\net6.0\Example012_Methods.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#Lesson3\Example012_Methods\obj\Debug\net6.0\Example012_Methods.AssemblyInfoInputs.cache
+F:\C#Lesson3\Example012_Methods\obj\Debug\net6.0\Example012_Methods.AssemblyInfo.cs
+F:\C#Lesson3\Example012_Methods\obj\Debug\net6.0\Example012_Methods.csproj.CoreCompileInputs.cache
+F:\C#Lesson3\Example012_Methods\obj\Debug\net6.0\Example012_Methods.dll
+F:\C#Lesson3\Example012_Methods\obj\Debug\net6.0\ref\Example012_Methods.dll
+F:\C#Lesson3\Example012_Methods\obj\Debug\net6.0\Example012_Methods.pdb
+F:\C#Lesson3\Example012_Methods\obj\Debug\net6.0\Example012_Methods.genruntimeconfig.cache
